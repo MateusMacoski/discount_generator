@@ -31,10 +31,10 @@ Bem-vindo à loja do Mateus Macoski
 Digite o valor unitário do produto: 10.00
 Digite a quantidade do produto: 300
 
-Resumo do Pedido:
-Valor Unitário: R$10.00
-Quantidade: 300
-Valor Total (sem desconto): R$3000.00
-Desconto aplicado: 5%
+Resumo do Pedido:</br>
+Valor Unitário: R$10.00</br>
+Quantidade: 300</br>
+Valor Total (sem desconto): R$3000.00</br>
+Desconto aplicado: 5%</br>
 Valor Total (com desconto): R$2850.00
 
